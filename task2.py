@@ -1,3 +1,5 @@
+#проект 2- МП автомат
+
 from collections import deque
 
 
